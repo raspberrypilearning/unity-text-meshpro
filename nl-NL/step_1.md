@@ -1,3 +1,3 @@
-TeshMeshPro adds better quality text to Unity. When you use it for the first time in a project, you will see a pop-up window asking you to import TextMeshPro essentials, examples, and extras to your project. Click on the two Import buttons in turn then close the window:
+TeshMeshPro voegt tekst van betere kwaliteit toe aan Unity. Wanneer je het voor de eerste keer in een project gebruikt, zie je een pop-upvenster waarin je wordt gevraagd de essentiële onderdelen, voorbeelden en extra's van TextMeshPro in jouw project te importeren. Klik achtereenvolgens op de twee importknoppen en sluit vervolgens het venster:
 
-![TextMeshPro dialogue box with two buttons to click to import assets.](images/TMP-importer.png)
+![TextMeshPro-dialoogvenster met twee knoppen waarop je kunt klikken om assets te importeren.](images/TMP-importer.png)
